@@ -1,4 +1,5 @@
 # Initial Release
+NOTE: Click on the "Generic" link above to download the update!
 
 ## Installation Notes:
 1. Open launcher
