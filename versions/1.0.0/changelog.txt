@@ -1,1 +1,12 @@
-Initial Release
+# Initial Release
+
+## Installation Notes:
+1. Open launcher
+2. Click Minecraft folder on the right
+3. Copy/paste files from 1.0.0.zip into the config and mods folders
+4. Go into mods directory, delete the old Embeddium mod (embeddium-0.3.20+mc1.20.1.jar)
+5. All done!
+
+## Changelog
+- Updated Embeddium for performance tweaks
+- Added update checker for new versions
