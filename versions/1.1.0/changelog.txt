@@ -1,0 +1,14 @@
+# First Update!
+NOTE: Click on the "Generic" link above to download the update!
+
+## Installation Notes:
+1. Open launcher
+2. Click Minecraft folder on the right
+3. Copy/paste files from 1.1.0.zip into the mod folder
+4. Go into mods directory, delete these old mods (AdChimneys-1.20.1-10.1.9.0-build.0572.jar, embeddium-0.3.23+mc1.20.1.jar, jei-1.20.1-forge-15.2.0.27.jar, modernfix-forge-5.18.1+mc1.20.1.jar, MultiplayerServerPause-1.20.1-Forge-1.1.0.jar)
+5. All done!
+
+## Changelog
+- Added XP costs to waystones and related items
+- Updated Embeddium and modernfix for performance tweaks
+- Updated AdChimneys, JEI, and MultiplayerServerPause
