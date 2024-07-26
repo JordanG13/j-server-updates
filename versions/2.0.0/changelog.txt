@@ -1,5 +1,6 @@
 # First MAJOR Update!
-NOTE: Click on the "Generic" link above to download the update!
+NOTE: Click on the `Generic` link above to download the update!
+YOU WILL NEED THIS MAJOR UPDATE BEFORE INSTALLING FUTURE UPDATES!
 
 ## Installation Notes:
 1. Open launcher
