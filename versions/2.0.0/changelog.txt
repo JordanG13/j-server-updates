@@ -1,0 +1,12 @@
+# First MAJOR Update!
+NOTE: Click on the "Generic" link above to download the update!
+
+## Installation Notes:
+1. Open launcher
+2. Click Minecraft folder on the right
+3. Delete the `config`, `mods`, and `resourcepack` folders
+4. Copy/paste files from 2.0.0.zip into the current folder (.minecraft)
+5. All done!
+
+## Changelog
+- Too many changes to list. Like...200+ mods updated. :smile:

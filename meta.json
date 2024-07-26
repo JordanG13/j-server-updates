@@ -19,6 +19,16 @@
           "generic": "https://github.com/JordanG13/j-server-updates/releases/download/1.1.0/1.1.0.zip"
         }
       }
+    },
+    {
+      "id": "2.0.0",
+      "releasedAt": 1722005341632,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/JordanG13/j-server-updates/releases/download/2.0.0/2.0.0.zip"
+        }
+      },
+      "updateType": "major"
     }
   ]
 }
