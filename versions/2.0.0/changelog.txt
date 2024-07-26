@@ -4,10 +4,11 @@ YOU WILL NEED THIS MAJOR UPDATE BEFORE INSTALLING FUTURE UPDATES!
 
 ## Installation Notes:
 1. Open launcher
-2. Click Minecraft folder on the right
-3. Delete the `config`, `mods`, and `resourcepack` folders
-4. Copy/paste files from 2.0.0.zip into the current folder (.minecraft)
-5. All done!
+1. Click Minecraft folder on the right
+1. Delete the `config`, `mods`, and `resourcepack` folders
+1. Copy/paste files from 2.0.0.zip into the current folder (.minecraft)
+1. After loading Minecraft, go to Options->Resource Packs and enable `Towers_Of_The_Wild_Reworked`
+1. All done!
 
 ## Changelog
 - Too many changes to list. Like...200+ mods updated. :smile:
