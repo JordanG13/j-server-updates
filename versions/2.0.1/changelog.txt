@@ -1,0 +1,12 @@
+# Minor Update
+NOTE: Click on the `Generic` link above to download the update!
+
+## Installation Notes:
+1. Open launcher
+1. Click Minecraft folder on the right
+1. Copy/paste files from 2.0.1.zip into the current folder (.minecraft) and overwrite them
+1. All done!
+
+## Changelog
+- Added custom menu music :)
+- Fixed some menus not rendering correctly
