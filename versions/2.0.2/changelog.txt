@@ -1,0 +1,20 @@
+# Modpack Change!
+NOTE: Click on the `Generic` link above to download the update!
+
+## Installation Notes:
+1. Open launcher
+2. Click Minecraft folder on the right
+3. Backup the following files somewhere safe:
+    - options.txt
+    - all of the folders that start with `Xaero`
+    - servers.dat
+4. Go back to the launcher
+5. Click `Add Instance`
+6. Click `Import from zip` and browse to the 2.0.2.mrpack file
+7. Once it is done, click Minecraft folder on the right
+8. Copy the backed up files in step 3 to this folder
+9. Start playing!
+
+## Changelog
+- Updates for numerous mods (again)
+- Swapped over to Modrinth modpack for updates
