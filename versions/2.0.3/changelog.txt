@@ -1,0 +1,30 @@
+# Launcher Change and Updates!
+NOTE: Click on the `Generic` link above to download the update!
+
+This new launcher will allow the new updates to be much easier (Edit->Modrinth->Update from File->Done!)
+
+## Installation Notes (swapping launchers, bit longer notes):
+1. Open launcher
+2. Click Minecraft folder on the right
+3. Backup the following files somewhere safe:
+    - options.txt
+    - all of the folders that start with `Xaero`
+    - servers.dat
+4. Click on the `Modrinth` link above to download the new and improved launcher
+5. Extract the files anywhere you'd like
+6. Open the folder and run `prismlauncher.exe`
+7. Follow the prompts/instructions to setup the launcher (set the minimum and maximum memory allocation to at least 7168MB)
+8. Click `Add Instance`
+9. Click `Import` and browse to the `2.0.3.mrpack` file
+10. Once it is done, click `Folder` on the right
+11. Copy the backed up files in step 3 to this folder
+12. Start playing!
+13. If all works well, feel free to delete the old launcher folder and all of it's files.
+
+## Changelog
+- Library updates
+- Fixed recipe for some dyes
+- Tons of fixes for relics (removed relic research table as well)
+- Bumblezone spawn fixes
+- Byzantine building pack updates
+- MineColonies: Add mud bricks to paths, recipe and bug fixes
