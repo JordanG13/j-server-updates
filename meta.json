@@ -46,6 +46,16 @@
           "generic": "https://github.com/JordanG13/j-server-updates/releases/download/2.0.2/2.0.2.mrpack"
         }
       }
+    },
+    {
+      "id": "2.0.3",
+      "releasedAt": 1722525862171,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/JordanG13/j-server-updates/releases/download/2.0.3/2.0.3.mrpack",
+          "modrinth": "https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/v8.4.1/PrismLauncher-Windows-MinGW-w64-Portable-v8.4.1.zip"
+        }
+      }
     }
   ]
 }
