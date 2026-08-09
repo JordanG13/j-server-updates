@@ -11,6 +11,15 @@
           "modrinth": "https://github.com/ElyPrismLauncher/Launcher/releases/latest"
         }
       }
+    },
+    {
+      "id": "1.0.1",
+      "releasedAt": 1786250675000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/JordanG13/j-server-updates/releases/download/1.0.1/J-RPG_Souls-like.zip"
+        }
+      }
     }
   ]
 }
