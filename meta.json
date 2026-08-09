@@ -4,56 +4,11 @@
   "versions": [
     {
       "id": "1.0.0",
-      "releasedAt": 1719066641718,
+      "releasedAt": 1786240209000,
       "promotions": {
         "downloads": {
-          "generic": "https://github.com/JordanG13/j-server-updates/releases/download/1.0.0/1.0.0.zip"
-        }
-      }
-    },
-    {
-      "id": "1.1.0",
-      "releasedAt": 1721654798352,
-      "promotions": {
-        "downloads": {
-          "generic": "https://github.com/JordanG13/j-server-updates/releases/download/1.1.0/1.1.0.zip"
-        }
-      }
-    },
-    {
-      "id": "2.0.0",
-      "releasedAt": 1722005341632,
-      "promotions": {
-        "downloads": {
-          "generic": "https://github.com/JordanG13/j-server-updates/releases/download/2.0.0/2.0.0.zip"
-        }
-      }
-    },
-    {
-      "id": "2.0.1",
-      "releasedAt": 1722019994408,
-      "promotions": {
-        "downloads": {
-          "generic": "https://github.com/JordanG13/j-server-updates/releases/download/2.0.1/2.0.1.zip"
-        }
-      }
-    },
-    {
-      "id": "2.0.2",
-      "releasedAt": 1722121450836,
-      "promotions": {
-        "downloads": {
-          "generic": "https://github.com/JordanG13/j-server-updates/releases/download/2.0.2/2.0.2.mrpack"
-        }
-      }
-    },
-    {
-      "id": "2.0.3",
-      "releasedAt": 1722525862171,
-      "promotions": {
-        "downloads": {
-          "generic": "https://github.com/JordanG13/j-server-updates/releases/download/2.0.3/2.0.3.mrpack",
-          "modrinth": "https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/v8.4.1/PrismLauncher-Windows-MinGW-w64-Portable-v8.4.1.zip"
+          "generic": "https://github.com/JordanG13/j-server-updates/releases/download/1.0.0/J-RPG_Souls-like.zip",
+          "modrinth": "https://github.com/ElyPrismLauncher/Launcher/releases/latest"
         }
       }
     }
