@@ -1,0 +1,10 @@
+# Initial Release
+NOTE: Click on the "Generic" link above to download the modpack!
+
+## Installation Notes:
+1. Click on the "Modrinth" link above to download the launcher
+2. Extract, and then open the launcher (elyprismlauncher.exe)
+3. Click `Add Instance` in the top left, then click `Import`
+4. Click `Browse`, and then find the SUPERIOR - J-RPG zip you downloaded above
+5. Click OK
+6. All done! Double click to run the game
